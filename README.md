@@ -1,3 +1,5 @@
+Fork of the Maizzle repo used to create email HTML tmeplates, rady to be copy-pasted into an ESP (email service provider).
+
 <div align="center">
   <p>
     <a href="https://maizzle.com" target="_blank">
